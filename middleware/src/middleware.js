@@ -37,6 +37,7 @@ const botUserAgents = module.exports.botUserAgents = [
   'slackbot',
   'twitterbot',
   'vkShare',
+  'Googlebot'
 ];
 
 /* eslint-disable no-multi-spaces */
